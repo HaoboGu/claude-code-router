@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "@fastify/static": "^8.2.0",
-    "@musistudio/llms": "v1.0.19",
+    "@musistudio/llms": "link:/Users/haobogu/Projects/claude-code/musistudio-llms",
     "dotenv": "^16.4.7",
     "json5": "^2.2.3",
     "openurl": "^1.1.1",
